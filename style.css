@@ -92,3 +92,32 @@ body {
 .contact {
     background-color: #1abc9c;
 }
+
+.content {
+    padding: 100px;
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.back-button {
+    margin-top: 40px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.back-button:hover {
+    background-color: #555;
+}

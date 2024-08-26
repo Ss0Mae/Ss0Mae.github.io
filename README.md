@@ -1,1 +1,1 @@
-# Ss0Mae.github.io
+https://ss0mae.github.io/
